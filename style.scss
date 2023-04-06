@@ -1,0 +1,15 @@
+$dark: #1c1a19;
+$white: #fff;
+
+nav {
+  background-color: $dark;
+
+  a,
+  .nav-link {
+    color: $white;
+  }
+
+  #burger {
+    color: red;
+  }
+}
