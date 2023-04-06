@@ -1,0 +1,9 @@
+nav {
+  background-color: #1C1A19;
+}
+nav a, nav .nav-link {
+  color: #fff;
+}
+nav #burger {
+  color: red;
+}/*# sourceMappingURL=style.css.map */
